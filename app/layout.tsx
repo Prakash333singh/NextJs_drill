@@ -17,6 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>{children}</body>
+      <h2 className="text-2xl text-blue-400">this is from layout </h2>
     </html>
   );
 }

@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <main >
-     <h1 className="text-2xl">hello world</h1>
+     <h1 className="text-2xl">hello this is home page</h1>
     </main>
   );
 }
